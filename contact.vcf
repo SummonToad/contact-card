@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Last;First;;;
+FN:First Last
+ORG:Company Name
+TITLE:Job Title
+TEL;TYPE=CELL:+15555550123
+EMAIL;TYPE=INTERNET:you@example.com
+URL:https://example.com
+ADR;TYPE=WORK:;;123 Main St;City;ST;00000;USA
+NOTE:Add any extra note text here (optional)
+END:VCARD
